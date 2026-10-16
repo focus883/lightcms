@@ -4,6 +4,17 @@ All notable changes to LightCMS are documented here, organized by version.
 
 ---
 
+## [7.4.5] - 2026-10-16
+
+### Changed
+- **LightCMS moved to `github.com/metavert-io/lightcms`.** The Go module path is now `github.com/metavert-io/lightcms/v7`: use `go get github.com/metavert-io/lightcms/v7` and update imports. The old `github.com/jonradoff/lightcms` address still redirects for browsers and git, but Go refuses a module whose `go.mod` path does not match where it was fetched from, so the new path is required from this version on. Earlier versions stay available under the old path.
+- **The MCP Docker image is published to `ghcr.io/metavert-io/lightcms-mcp`.** `ghcr.io/jonradoff/lightcms-mcp` stays available at its last build and gets no further updates.
+- `server.json` points at the repository and release downloads under `metavert-io`.
+
+No runtime changes.
+
+---
+
 ## [7.4.4] - 2026-10-09
 
 ### Security
