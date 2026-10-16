@@ -12,7 +12,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
 
-	"github.com/jonradoff/lightcms/v7/internal/auth"
+	"github.com/metavert-io/lightcms/v7/internal/auth"
 )
 
 // Guards for the /cm route table (7.4.2). Before it, 34 state-changing admin

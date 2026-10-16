@@ -1,4 +1,4 @@
-module github.com/jonradoff/lightcms/v7
+module github.com/metavert-io/lightcms/v7
 
 go 1.25.0
 

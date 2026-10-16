@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
 )
 
 // sandboxAPI is a minimal fake REST API tracking fork state, for exercising

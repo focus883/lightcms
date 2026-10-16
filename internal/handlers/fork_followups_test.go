@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/models"
+	"github.com/metavert-io/lightcms/v7/internal/models"
 )
 
 // Tests for the 7.4.1 follow-ups: search-and-replace and by-path lookups

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/netguard"
+	"github.com/metavert-io/lightcms/v7/internal/netguard"
 )
 
 // FeedClient fetches feeds. Feed URLs are user-configured, so it dials

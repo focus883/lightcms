@@ -3,8 +3,8 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/jonradoff/lightcms/v7/internal/auth"
-	"github.com/jonradoff/lightcms/v7/internal/models"
+	"github.com/metavert-io/lightcms/v7/internal/auth"
+	"github.com/metavert-io/lightcms/v7/internal/models"
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson/primitive"

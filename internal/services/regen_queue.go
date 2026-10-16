@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/database"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

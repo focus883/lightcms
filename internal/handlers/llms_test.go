@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/models"
+	"github.com/metavert-io/lightcms/v7/internal/models"
 
 	"github.com/gorilla/mux"
 

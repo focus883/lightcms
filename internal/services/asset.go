@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/database"
-	"github.com/jonradoff/lightcms/v7/internal/middleware"
+	"github.com/metavert-io/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/middleware"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

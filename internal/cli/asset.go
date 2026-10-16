@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
 )
 
 func (a *App) runAsset(args []string) error {

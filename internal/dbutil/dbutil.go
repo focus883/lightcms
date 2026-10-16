@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/jonradoff/lightcms/v7/config"
+	"github.com/metavert-io/lightcms/v7/config"
 )
 
 // GetMongoURI returns the MongoDB URI for the command-line tools: the

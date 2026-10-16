@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
 )
 
 func (a *App) runTemplate(args []string) error {

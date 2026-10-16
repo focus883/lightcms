@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/netguard"
+	"github.com/metavert-io/lightcms/v7/internal/netguard"
 )
 
 // The package's feeds are served by httptest on 127.0.0.1, which the SSRF

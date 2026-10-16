@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/database"
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"

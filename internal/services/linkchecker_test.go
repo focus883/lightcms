@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/testutil"
+	"github.com/metavert-io/lightcms/v7/internal/testutil"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

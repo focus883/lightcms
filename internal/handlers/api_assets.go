@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/auth"
-	"github.com/jonradoff/lightcms/v7/internal/netguard"
+	"github.com/metavert-io/lightcms/v7/internal/auth"
+	"github.com/metavert-io/lightcms/v7/internal/netguard"
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson/primitive"

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
 )
 
 // repair_fork_damage posts to the maintenance endpoint, passes dry_run

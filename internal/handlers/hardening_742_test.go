@@ -16,11 +16,11 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 
-	"github.com/jonradoff/lightcms/v7/internal/auth"
-	"github.com/jonradoff/lightcms/v7/internal/database"
-	"github.com/jonradoff/lightcms/v7/internal/middleware"
-	"github.com/jonradoff/lightcms/v7/internal/models"
-	"github.com/jonradoff/lightcms/v7/internal/services"
+	"github.com/metavert-io/lightcms/v7/internal/auth"
+	"github.com/metavert-io/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/middleware"
+	"github.com/metavert-io/lightcms/v7/internal/models"
+	"github.com/metavert-io/lightcms/v7/internal/services"
 )
 
 // Database-backed tests for the 7.4.2 hardening: the /cm access checks

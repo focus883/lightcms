@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/services"
-	"github.com/jonradoff/lightcms/v7/internal/testutil"
+	"github.com/metavert-io/lightcms/v7/internal/services"
+	"github.com/metavert-io/lightcms/v7/internal/testutil"
 )
 
 // TestMain keeps the suite from touching tracked files. The handlers write

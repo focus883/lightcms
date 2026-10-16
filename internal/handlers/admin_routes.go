@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/jonradoff/lightcms/v7/internal/auth"
+	"github.com/metavert-io/lightcms/v7/internal/auth"
 )
 
 // AdminRoute is one route under /cm together with the access it requires.

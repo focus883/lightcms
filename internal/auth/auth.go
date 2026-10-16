@@ -7,10 +7,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/jonradoff/lightcms/v7/internal/database"
-	"github.com/jonradoff/lightcms/v7/internal/middleware"
-	"github.com/jonradoff/lightcms/v7/internal/models"
-	"github.com/jonradoff/lightcms/v7/internal/services"
+	"github.com/metavert-io/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/middleware"
+	"github.com/metavert-io/lightcms/v7/internal/models"
+	"github.com/metavert-io/lightcms/v7/internal/services"
 
 	"github.com/gorilla/sessions"
 	"go.mongodb.org/mongo-driver/bson/primitive"

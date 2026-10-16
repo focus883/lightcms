@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
 )
 
 // richServer serves a content list containing a deleted item plus generic

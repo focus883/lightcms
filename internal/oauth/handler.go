@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/auth"
-	"github.com/jonradoff/lightcms/v7/internal/services"
+	"github.com/metavert-io/lightcms/v7/internal/auth"
+	"github.com/metavert-io/lightcms/v7/internal/services"
 )
 
 const loginProofMaxAge = 5 * time.Minute

@@ -13,8 +13,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/database"
-	"github.com/jonradoff/lightcms/v7/internal/netguard"
+	"github.com/metavert-io/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/netguard"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

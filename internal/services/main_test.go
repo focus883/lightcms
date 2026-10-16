@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/services/importer"
-	"github.com/jonradoff/lightcms/v7/internal/testutil"
+	"github.com/metavert-io/lightcms/v7/internal/services/importer"
+	"github.com/metavert-io/lightcms/v7/internal/testutil"
 )
 
 // TestMain keeps the suite from touching tracked files: the theme CSS is

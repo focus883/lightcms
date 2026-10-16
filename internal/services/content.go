@@ -16,8 +16,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/database"
-	"github.com/jonradoff/lightcms/v7/internal/models"
+	"github.com/metavert-io/lightcms/v7/internal/database"
+	"github.com/metavert-io/lightcms/v7/internal/models"
 
 	"github.com/microcosm-cc/bluemonday"
 	"github.com/yuin/goldmark"

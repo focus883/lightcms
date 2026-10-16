@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
-	"github.com/jonradoff/lightcms/v7/internal/mcp"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/mcp"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/jonradoff/lightcms/v7/internal/apiclient"
+	"github.com/metavert-io/lightcms/v7/internal/apiclient"
 )
 
 // App is the CLI application

@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/middleware"
+	"github.com/metavert-io/lightcms/v7/internal/middleware"
 )
 
 // Guards over everything the server sends to a browser: the admin templates

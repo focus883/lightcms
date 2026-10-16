@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jonradoff/lightcms/v7/internal/testutil"
+	"github.com/metavert-io/lightcms/v7/internal/testutil"
 )
 
 func TestAnalyticsService_RecordActivity_DAU(t *testing.T) {

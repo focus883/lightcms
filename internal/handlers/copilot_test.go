@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jonradoff/lightcms/v7/internal/services"
+	"github.com/metavert-io/lightcms/v7/internal/services"
 
 	"github.com/gorilla/csrf"
 )
