@@ -191,8 +191,8 @@ When creating or updating content via MCP or admin UI, the following markup feat
 Hard-won rules from building v7. Violating these has bitten us before:
 
 ### Module path & forking
-- The module is `github.com/jonradoff/lightcms/v7`. Go's semantic import versioning means a major-version bump (v8.x tags) requires renaming the module path to `/v8` across every import. If you FORK this repo, rename the module to your own path first:
-  `sed -i '' 's|github.com/jonradoff/lightcms/v7|github.com/YOU/yourcms/v7|g' go.mod $(find . -name '*.go' -not -path './bin/*')`
+- The module is `github.com/metavert-io/lightcms/v7`. Go's semantic import versioning means a major-version bump (v8.x tags) requires renaming the module path to `/v8` across every import. If you FORK this repo, rename the module to your own path first:
+  `sed -i '' 's|github.com/metavert-io/lightcms/v7|github.com/YOU/yourcms/v7|g' go.mod $(find . -name '*.go' -not -path './bin/*')`
 - pkg.go.dev only indexes modules whose declared path matches the repo host path.
 
 ### Release process

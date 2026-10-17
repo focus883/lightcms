@@ -9,7 +9,7 @@
 #   docker run -i \
 #     -e LIGHTCMS_URL=https://example.com \
 #     -e LIGHTCMS_API_KEY=lc_xxxx \
-#     ghcr.io/jonradoff/lightcms-mcp
+#     ghcr.io/metavert-io/lightcms-mcp
 
 # Build stage
 FROM golang:1.25-bookworm AS builder

@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonradoff/lightcms.git"
+    "url": "https://github.com/metavert-io/lightcms.git"
   },
   "homepage": "https://metavert.io",
-  "documentation": "https://github.com/jonradoff/lightcms/blob/main/README.md",
-  "support": "https://github.com/jonradoff/lightcms/issues",
+  "documentation": "https://github.com/metavert-io/lightcms/blob/main/README.md",
+  "support": "https://github.com/metavert-io/lightcms/issues",
   "server": {
     "type": "binary",
     "entry_point": "bin/lightcms-mcp",
